@@ -48,7 +48,7 @@ Recall: also shown through the "confusion matrix" it shows the number of predict
 
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any.
 * Which one seems to perform best? How do you know it performs best?
-  * The resampled performed best. It was mostly because the datasets were the same length leading to a more accurate reading. Not only did it have a 99% accuracy score the value counts were also accurate.
+  * The resampled [Model 2] performed best. It was mostly because the datasets were the same length leading to a more accurate reading. Not only did it have a 99% accuracy score the value counts were also accurate.
 
 * Does performance depend on the problem we are trying to solve? (For example, is it more important to predict the `1`'s, or predict the `0`'s? )
   * YES! If you do not predict whether a loan is good or bad you can potentially lose out on tons of money in interest and having loans default. The last thing you want to do is put your money behind a toxic loan.
